@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:1:1-16:12
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:2:5-63
+application
+ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:4:3-15:17
+	android:label
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:5:5-37
+	android:icon
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:6:5-39
+activity#com.filmsbykris.logtime.MainActivity
+ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:7:5-14:16
+	android:label
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:9:9-41
+	android:name
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:8:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:10:7-13:23
+action#android.intent.action.MAIN
+ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:11:9-60
+	android:name
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:11:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:12:9-68
+	android:name
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:12:19-66
+uses-sdk
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+		ADDED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+		INJECTED from /tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml

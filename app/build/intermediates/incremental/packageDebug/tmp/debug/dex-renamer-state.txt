@@ -1,0 +1,4 @@
+#Fri Dec 09 20:48:54 EST 2022
+base.0=/tmp/ani/Android-Log-to-System-Message/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.filmsbykris.logcat"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="1"
+8-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:4:3-15:17
+12        android:debuggable="true"
+13        android:icon="@mipmap/ic_launcher"
+13-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:6:5-39
+14        android:label="@string/app_name" >
+14-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:5:5-37
+15        <activity
+15-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:7:5-14:16
+16            android:name="com.filmsbykris.logtime.MainActivity"
+16-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:8:9-37
+17            android:label="@string/app_name" >
+17-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:9:9-41
+18            <intent-filter>
+18-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:10:7-13:23
+19                <action android:name="android.intent.action.MAIN" />
+19-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:11:9-60
+19-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:11:17-58
+20
+21                <category android:name="android.intent.category.LAUNCHER" />
+21-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:12:9-68
+21-->/tmp/ani/Android-Log-to-System-Message/app/src/main/AndroidManifest.xml:12:19-66
+22            </intent-filter>
+23        </activity>
+24    </application>
+25
+26</manifest>

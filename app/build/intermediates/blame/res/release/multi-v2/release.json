@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/tmp/ani/Android-Log-to-System-Message/app/build/intermediates/res/merged/release/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/tmp/ani/Android-Log-to-System-Message/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "2,2",
+                        "startOffsets": "14,73",
+                        "endLines": "1,5",
+                        "endColumns": "58,11",
+                        "endOffsets": "70,197"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,116",
+                        "endLines": "2,6",
+                        "endColumns": "60,11",
+                        "endOffsets": "111,240"
+                    }
+                }
+            ]
+        }
+    ]
+}

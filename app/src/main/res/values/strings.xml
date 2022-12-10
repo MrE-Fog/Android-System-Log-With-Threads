@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">System Log with Threads</string>
+  <string name="hello_world">Run the Following on your computer for message log
+  \nadb shell logcat|grep TIMEE
+  
+  </string>
+</resources>
